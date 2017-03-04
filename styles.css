@@ -1,0 +1,27 @@
+.interestingfact{
+	font-style: italic;
+
+
+}
+
+.ulnodot{
+	list-style-type: none;	
+}
+.bol{
+	font-weight: bolder;
+}
+.sbin{
+	border-style: groove; 
+	width: 400px;
+	padding: 10px;
+}
+.sbout{
+	border-style: groove; 
+	width: 375px;
+	padding-left: 10px;
+	padding-right: 10px;
+	padding-top: 10px;
+	padding-bottom: 10px;
+
+}
+
